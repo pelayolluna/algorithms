@@ -1,2 +1,2 @@
 # algorithms
-Algorithms to resolve somo problems
+Algorithms to resolve some problems
