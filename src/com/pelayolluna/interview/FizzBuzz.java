@@ -38,8 +38,9 @@ public class FizzBuzz {
 				System.out.println("Buzz");
 			} else if (i % 5 == 0) {
 				System.out.println("Fizz");
+			} else {
+				System.out.println(i);
 			}
-			System.out.println(i);
 		}
 	}
 }
